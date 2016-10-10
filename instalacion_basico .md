@@ -4,7 +4,7 @@ Una vez pueda iniciar un medio con un instalador, el sistema reconocerá las par
 
 ![instala1](img/instala1.png)
 
-También podrá elegir distribución del teclado, por ejemplo el teclado típico con 'ñ' y* ju*nto a esta un '{' corresponde a 'es'. El instalador a continuación le permitirá configurar dispositivo de red que usará, clave para la cuenta root y detalles para el inicio del sistema entre los cuales es importante que confirme el uso de xdm, la zona horaria (por defecto  *America/Bogota*) y que cree una cuenta del sistema (en este ejemplo servidor) que posteriormente podrá configurar como cuenta de usuario administrador (*sshd* es un servicio que permite operación remota con *ssh*, *ntpd* permite sincronizar reloj con servidores para esto, X-Window es el entorno gráfico, *xdm* es el programa que tras iniciar el entorno gráfico le permite autenticarse).
+También podrá elegir distribución del teclado, por ejemplo el teclado típico con 'ñ' y junto a esta un '{' corresponde a 'es'. El instalador a continuación le permitirá configurar dispositivo de red que usará, clave para la cuenta *root* y detalles para el inicio del sistema entre los cuales es importante que confirme el uso de *xdm*, la zona horaria (por defecto  *America/Bogota*) y que cree una cuenta del sistema (en este ejemplo servidor) que posteriormente podrá configurar como cuenta de usuario administrador (*sshd* es un servicio que permite operación remota con *ssh*, *ntpd* permite sincronizar reloj con servidores para esto, X-Window es el entorno gráfico, *xdm* es el programa que tras iniciar el entorno gráfico le permite autenticarse).
 
 ![instala2](img/instala2.png)
 
