@@ -145,6 +145,7 @@ elemento 1 & elemento 2 \\\hline
 LaTeX es un experto en esta materia:
 \[ \int_{x=-\infty}^{\infty}e^{-|x|} \]
 \end{document}```
+
 LaTeX ofrece plantillas para varios tipos de documentos: artículo, reporte, libro y ofrece el concepto de ambiente para indicar como presentar cierta información de acuerdo a la plantilla. En el ejemplo presentado, el tipo de documento es artículo (lo indica la línea *documentclass{article*}), y uno de los ambientes empleados es tabular, que genera una tabla.
 
 Una vez edite un documento puede procesarlo con LaTeX para obtener un archivo DVI, por ejemplo para generar el archivo documento.dvi a partir de documento.tex:
