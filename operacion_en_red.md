@@ -107,7 +107,8 @@ El usuario desde el cual desarrollará o ejecutará aplicaciones también debe t
 Para facilitar su exploración del lenguaje ruby, puede usar *irb* (ver {4}), pero antes verifique que su archivo *~/.irbrc* tenga las siguientes líneas (añadidas por defecto en adJ a la cuenta de administrador):
 
     # Configuración de irb
-    # Basado en archivo de comandos disponible en <http://girliemangalo.wordpress.com/2009/02/20/using-irbrc-file-to-configure-your-irb/>
+    # Basado en archivo de comandos disponible en 
+    <http://girliemangalo.wordpress.com/2009/02/20/using-irbrc-file-to-configure-your-irb/>
     require 'irb/completion'
     require 'pp'
     IRB.conf[:AUTO_INDENT] = true
@@ -545,4 +546,4 @@ después reiniciar **mozilla-firefox** y verificar que el plugin esté operando 
 	
 que de requerirse puede ejecutarse desde la cuenta *root* (cuyo límite máximo es mayor que el de cuentas de usuario).
 
-#e depuracion hay dos renglones que empiezan con asterico y generan un espacio hacia la derecha.
+#en depuracion hay dos renglones que empiezan con asterico y generan un espacio hacia la derecha.
